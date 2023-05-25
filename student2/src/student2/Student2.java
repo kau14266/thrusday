@@ -9,7 +9,7 @@ package student2;
  * @author ra200
  */
 public class Student2 {
-     private String FOOT;
+     private String FEET;
     /**
      * @param args the command line arguments
      */
