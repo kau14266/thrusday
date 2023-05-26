@@ -15,6 +15,8 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1;
 import java.util.Scanner;
 
 public class CardTrick {
+    // Modifier: [Ramandeep kaur]
+    // Student Number: [991700904]
     public static void main(String[] args) {
         Card[] magicHand = new Card[7]; // Create an array to store the magic hand of cards
         Card luckyCard = new Card(); // Create a Card object to represent the user's lucky card
